@@ -1,1 +1,2 @@
-This my second repo
+This is my second repo.
+Collaboration is key in software engineering.
