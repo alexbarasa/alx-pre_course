@@ -1,2 +1,2 @@
-My first readme
-Collaborating with peers
+My first readme.
+Collaborating with peers.
